@@ -1,4 +1,3 @@
-<Title>One-Liners to make you convert from bash to Powershell</Title>
 <h1 style="color: #5e9ca0;"><span style="color: #008080;">When SysAdmin & Hacker Unite: 21 One-Liners to make you convert from bash to Powershell</span></h1>
 <hr />
 <h3 style="color: #2e6c80;"><span style="color: #333399;">Code & Slides from SEC-T 2022 talk</span></h3>
