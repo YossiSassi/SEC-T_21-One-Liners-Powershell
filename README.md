@@ -4,10 +4,7 @@
 <p><strong>Comments and feedback welcome are <a href="mailto:yossis@protonmail.com" target="_blank"><span style="color: #333333;">welcome</span></a></strong></p>
 <hr />
 <h2 style="color: #2e6c80;">Slides &amp; video:</h2>
-Youtube video:<!-- <a title="&quot;When SysAdmin & Hacker Unite: 21 One-Liners to make you convert from bash to Powershell
-;" href="" target="_blank"><span style="color: #000080;">"When SysAdmin & Hacker Unite: 21 One-Liners to make you convert from bash to Powershell"</span></a></span> <span style="color: #000000;">
--->
-<B>Coming soon...</B>
+<a title="Talk video on Youtube" href="https://www.youtube.com/watch?v=4iAM76n1b5o" target="_blank"><strong>Talk video on Youtube</string></a></span> <span style="color: #000000;">
 <p><a href="bash-to-Powershell-OneLiners_SEC-T_2022_YossiSassi.pdf" target="_blank"><strong>Slides</strong></a> - Presentation slides in PDF</p>
 <hr />
 <h2 style="color: #2e6c80;">Code & Scripts:</h2>
